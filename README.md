@@ -1,1 +1,3 @@
 # Manual Clonezilla
+
+•
