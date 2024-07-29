@@ -1,1 +1,1 @@
-# Manual-Clonezilla
+# Manual Clonezilla
