@@ -85,3 +85,26 @@
   > ⚠️ Se você chegou até aqui, e não foi barrado em nenhuma mensagem de erro, parabéns! Você concluiu a criação da imagem.
 
 ### 🌐 Configuração da distribuição da imagem criada utilizando o método baseado em REDE.
+
+  + ⚙️ Selecione a opção "lite-server".
+    + 🔧 ![image](https://github.com/user-attachments/assets/5cfdad74-58f4-43a4-a79f-e82e6833e4f6)
+
+  + ⚙️ Selecione a opção "Start" para iniciar o serviço de servidor.
+    + 🔧 ![image](https://github.com/user-attachments/assets/002cbe7e-b2f9-46df-88ae-1f1ef8e4e2b6)
+   
+  + ⚙️ Selecione a opção "netboot", afim de realizar a inicialização do dispositivo através da entrada de rede.
+    + 🔧 ![image](https://github.com/user-attachments/assets/bb1e7fea-c2ef-4903-9876-0acb4f998abd)
+ 
+  + ⚙️ Caso já possua um DHCP, seleceione a opção "use-existing-dhcpd".
+    + 🔧 ![image](https://github.com/user-attachments/assets/2260a1ee-81de-4928-b0ba-74fefb403fd6)
+   
+  + ⚙️ Selecione o modo de transmissão.
+    + 🔧 ![image](https://github.com/user-attachments/assets/3cb124e7-8aad-48d9-a589-6161eca8ceaf)
+   
+  + ⚙️ Selecione a opção que direciona ao diretório onde a sua imagem criada está armazenada.
+    + 🔧 ![image](https://github.com/user-attachments/assets/9d4cf010-e5d9-421e-8818-5dfd45a475fe)
+
+    > ⚠️ Neste momento, caso você vá utilizar uma unidade externa, certifique-se que a mesma encontra-se conectada antes de processeguir com a tecla "Enter".
+
+  + ⚙️ Após selecionar a opção que indica onde a imagem a ser clonada está, pressione a tecla "Enter".
+    + 🔧 ![image](https://github.com/user-attachments/assets/64a83f25-28de-4669-92be-4d65c1b47214)
