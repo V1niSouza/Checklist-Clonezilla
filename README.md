@@ -104,7 +104,43 @@
   + ⚙️ Selecione a opção que direciona ao diretório onde a sua imagem criada está armazenada.
     + 🔧 ![image](https://github.com/user-attachments/assets/9d4cf010-e5d9-421e-8818-5dfd45a475fe)
 
-    > ⚠️ Neste momento, caso você vá utilizar uma unidade externa, certifique-se que a mesma encontra-se conectada antes de processeguir com a tecla "Enter".
+  > ⚠️ Neste momento, caso você vá utilizar uma unidade externa, certifique-se que a mesma encontra-se conectada antes de processeguir com a tecla "Enter".
 
   + ⚙️ Após selecionar a opção que indica onde a imagem a ser clonada está, pressione a tecla "Enter".
     + 🔧 ![image](https://github.com/user-attachments/assets/64a83f25-28de-4669-92be-4d65c1b47214)
+
+  + ⚙️ Após a corfimação de leitura das unidades externas conectadas, aperte a combinação de teclas "Ctrl + C" para prosseguir.
+    + 🔧 ![image](https://github.com/user-attachments/assets/baa50f1b-ec12-4e88-84da-f7dafe484e09)
+   
+  + ⚙️ Selecione o repositório onde a imagem foi criada.
+    + 🔧 ![image](https://github.com/user-attachments/assets/c62009f8-3bda-496c-9ac4-04b4ab302364)
+   
+  + ⚙️ Selecione a opção de checagem, ou não.
+    + 🔧 ![image](https://github.com/user-attachments/assets/c6e76478-ad0d-44e8-af64-5ee4a93a13d6)
+   
+  + ⚙️ Posicione a seleção na imagem a ser utilizada, e com a tecla "Tab" posicione o seletor na opção "Done" e pressione a tecla "Enter".
+    + 🔧 ![image](https://github.com/user-attachments/assets/931e2d96-0e76-4deb-88a6-7c31424aaad7)
+   
+  + ⚙️ Selecione o modo "Expert".
+    + 🔧 ![image](https://github.com/user-attachments/assets/d716d4c3-0268-4d3d-9416-6ee64a58bebc)
+   
+  + ⚙️ Selecione o modo de distribuição "massive-deployment".
+    + 🔧 ![image](https://github.com/user-attachments/assets/3223bc88-42a1-4196-9db3-b06128c73b28)
+   
+  + ⚙️ Selecione a opção "from-image".
+    + 🔧 ![image](https://github.com/user-attachments/assets/111136ac-bec0-4efe-a595-2523ac6a5562)
+   
+  + ⚙️ Selecione a opção "restoredisk" afim de restaurar todo o disco.
+    + 🔧 ![image](https://github.com/user-attachments/assets/145d19de-c885-4fa2-946a-4aefeac55894)
+   
+  + ⚙️ Confirme a imagem que será utilizada para a restauração.
+    + 🔧 ![image](https://github.com/user-attachments/assets/aed4abd3-fa0c-4bb2-a7f9-141018fa6b94)
+   
+  + ⚙️ Selecione com a tecla "Espaço" o disco que será restaurado.
+    + 🔧 ![image](https://github.com/user-attachments/assets/ce9402ff-82c2-4829-93d5-f035f0b25d98)
+   
+  + ⚙️ Selecione as opções seguintes, conforme a sua necessidade.
+    + 🔧 ![image](https://github.com/user-attachments/assets/d24e2469-f15a-444a-8f68-3ffca5ec1829)
+   
+  + ⚙️ Selecione a opção "-k0".
+    + 🔧 ![image](https://github.com/user-attachments/assets/20cb9959-2de0-43f6-bf79-773949361f58)
