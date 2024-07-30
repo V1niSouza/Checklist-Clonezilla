@@ -74,10 +74,10 @@
     + ![image](https://github.com/user-attachments/assets/fc950ea1-fa9d-4db9-81a7-6f848b12cf8d)
    
   + Selecionar a ação que, será realizada no final do processo.
-    + ![image](https://github.com/user-attachments/assets/e7d61d76-8352-4251-aba7-94b2ce23bd42)
     + ![image](https://github.com/user-attachments/assets/36cb2957-afe0-4925-862d-e67b776f45d4)
    
   + Ainda relacionada a seleção da ação final, prossiga com a tecla "Enter".
     + ![image](https://github.com/user-attachments/assets/a55f6ae4-4083-4c3c-9f61-5293a6b36bbd)
    
   + Por fim, aguarde o processo de carregamento.
+    + ![image](https://github.com/user-attachments/assets/e7d61d76-8352-4251-aba7-94b2ce23bd42)
