@@ -2,7 +2,7 @@
 
 > FATEC - Registro.
 
-### Configuração inicial para execução do Clonezilla.
+### 👨🏽‍💻 Configuração inicial para execução do Clonezilla.
 > Neste primeiro momento você vai selecionar a opção que, visa facilitar a execução do clonezilla independente do dispositivo que esteja sendo utilizado para fornecer o recurso de imageamento do programa.
     
   + Selecione a segunda opção "Clonezilla live (VGA 800x600 & To RAM).
@@ -16,7 +16,7 @@
    
   + Seleção de interface gráfica ou shell.
     + ![image](https://github.com/user-attachments/assets/81abbf41-3951-4ea6-a4aa-5b5fc3931684)
-
+      
 ### Configuração para criar imagem de disco.
 > Agora, inciairemos a criação da imagem, para que futuramente a mesma seja utilizada para clonagem.
 
@@ -81,3 +81,7 @@
    
   + Por fim, aguarde o processo de carregamento.
     + ![image](https://github.com/user-attachments/assets/e7d61d76-8352-4251-aba7-94b2ce23bd42)
+   
+  > Se você chegou até aqui, e não foi barrado em nenhuma mensagem de erro, parabéns! Você concluiu a criação da imagem.
+
+### Configuração da distribuição da imagem criada utilizando o método baseado em REDE.
