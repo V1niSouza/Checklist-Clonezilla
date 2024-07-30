@@ -160,4 +160,4 @@
   + ⚙️ Após o carregamento do processo de clonagem, com os dispositivos em "100%", basta pressionar a tecla "Y" conforme solicitado pelo clonezilla e o processo de clonagem será encerrado.
     + 🔧![image](https://github.com/user-attachments/assets/109ff998-5366-46ea-9b3d-1264274772dc)
 
-> ✅ Por fim, se nenhum dispositivo der erro durante a clonagem, você terá finalizado todo tramite de clonagem com sucesso!
+> ✅ Por fim, se nenhum dispositivo der erro durante a clonagem, você terá finalizado todo trâmite de clonagem com sucesso!
