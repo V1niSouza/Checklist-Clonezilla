@@ -39,3 +39,33 @@
    
   + Selecione a pasta dentro do diretório e após selecionar, confirme em "Done" para prosseguir.
     + ![image](https://github.com/user-attachments/assets/71068890-826f-4f47-8495-acc55407a2b4)
+   
+  + Selecione o modo "Expert".
+    + ![image](https://github.com/user-attachments/assets/9721a1b4-ed72-4f6c-a705-18cfa814886f)
+   
+  + Selecione "savedisk" para gerar a imagem do disco inteiro.
+    + ![image](https://github.com/user-attachments/assets/4cdd260b-a0a8-43f1-ae76-5df6ca3132a5)
+   
+  + Digite um nome para a imagem salva.
+    + ![image](https://github.com/user-attachments/assets/7e6dcda9-0a18-4c94-bab0-ffb43baf076d)
+   
+  + Escolha o disco que será clonado utilizando a tecla "espaço" para marcar a opção.
+    + ![image](https://github.com/user-attachments/assets/7f2f5e45-94fe-4f28-9ed6-199ac944d1fa)
+   
+  + Para o sistema Windows, selecione a opção "-q2".
+    + ![image](https://github.com/user-attachments/assets/6fb255bd-7c28-4ab7-bd64-d9bd97ea2367)
+   
+  + Selecione as mesmas opções que estão sinalizadas na imagem.
+    + ![image](https://github.com/user-attachments/assets/bda9bb24-8155-473b-8146-e035a9ef4543)
+   
+  + Selecione o tipo de compressão "-z9p".
+    + ![image](https://github.com/user-attachments/assets/d309de27-daaa-42ab-99bd-cae19e230240)
+   
+  + Preencha o valor de cada divisão do arquivo, faça o preenchimento de um numero grande o suficiente para que não seja possível existir a divisão.
+    + ![image](https://github.com/user-attachments/assets/402b81d6-2283-4ad5-b053-255c1a53aaab)
+
+  + Selecione o tipo de verificação.
+    + ![image](https://github.com/user-attachments/assets/e9e0330d-370f-47b2-bfbd-a5210689025a)
+   
+  + Seleção para fins de verificação da imagem após ter sido criada.
+    + ![image](https://github.com/user-attachments/assets/8e541334-f2ae-4e8d-ba2e-3e6b51c71b49)
