@@ -2,10 +2,14 @@
 
 > 📍 FATEC - Registro.
 
-### Sumário.
+### 📃 Sumário.
 > 👨🏽‍💻 Configuração inicial para configuração do Clonezilla.
+
 > 💿 Configuração para criar a imagem de disco.
+
 > 🌐 Configuração da distribuição da imagem criada utilizando o método baseado em REDE.
+
+#
 
 ### 👨🏽‍💻 Configuração inicial para execução do Clonezilla.
 > ⚠️ Neste primeiro momento você vai selecionar a opção que, visa facilitar a execução do clonezilla independente do dispositivo que esteja sendo utilizado para fornecer o recurso de imageamento do programa.
@@ -21,6 +25,8 @@
    
   + ⚙️ Seleção de interface gráfica ou shell.
     + 🔧![image](https://github.com/user-attachments/assets/81abbf41-3951-4ea6-a4aa-5b5fc3931684)
+
+#
       
 ### 💿 Configuração para criar imagem de disco.
 > ⚠️ Agora, inciairemos a criação da imagem, para que futuramente a mesma seja utilizada para clonagem.
@@ -88,6 +94,8 @@
     + 🔧![image](https://github.com/user-attachments/assets/e7d61d76-8352-4251-aba7-94b2ce23bd42)
    
   > ⚠️ Se você chegou até aqui, e não foi barrado em nenhuma mensagem de erro, parabéns! Você concluiu a criação da imagem.
+
+#
 
 ### 🌐 Configuração da distribuição da imagem criada utilizando o método baseado em REDE.
 
@@ -165,4 +173,6 @@
   + ⚙️ Após o carregamento do processo de clonagem, com os dispositivos em "100%", basta pressionar a tecla "Y" conforme solicitado pelo clonezilla e o processo de clonagem será encerrado.
     + 🔧![image](https://github.com/user-attachments/assets/109ff998-5366-46ea-9b3d-1264274772dc)
 
-> ✅ Por fim, se nenhum dispositivo der erro durante a clonagem, você terá finalizado todo trâmite de clonagem com sucesso!
+#
+
+### ✅ Por fim, se nenhum dispositivo der erro durante a clonagem, você terá finalizado todo trâmite de clonagem com sucesso!
