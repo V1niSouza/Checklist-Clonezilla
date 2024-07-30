@@ -1,6 +1,11 @@
 <h1>Checklist - Criação de Imagem do Clonezilla e Configuração Para Clonar Imagem - 2/2024.</h1>
 
-> FATEC - Registro.
+> 📍 FATEC - Registro.
+
+### Sumário.
+> 👨🏽‍💻 Configuração inicial para configuração do Clonezilla.
+> 💿 Configuração para criar a imagem de disco.
+> 🌐 Configuração da distribuição da imagem criada utilizando o método baseado em REDE.
 
 ### 👨🏽‍💻 Configuração inicial para execução do Clonezilla.
 > ⚠️ Neste primeiro momento você vai selecionar a opção que, visa facilitar a execução do clonezilla independente do dispositivo que esteja sendo utilizado para fornecer o recurso de imageamento do programa.
