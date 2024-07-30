@@ -144,3 +144,20 @@
    
   + ⚙️ Selecione a opção "-k0".
     + 🔧 ![image](https://github.com/user-attachments/assets/20cb9959-2de0-43f6-bf79-773949361f58)
+
+  + ⚙️ Selecione a opção conforme a sua necessidade.
+    + 🔧 ![image](https://github.com/user-attachments/assets/8e8802ce-84ac-4594-a40b-1f4809b0f75f)
+   
+  + ⚙️ Escolha qual ação o computador, irá realizar após a clonagem do disco.
+    + 🔧 ![image](https://github.com/user-attachments/assets/7a2e1aed-b5b9-4b24-852a-36f270c4e4db)
+   
+  + ⚙️ Selecione a opção "multicast".
+    + 🔧 ![image](https://github.com/user-attachments/assets/0e7c8096-36aa-4d06-b1c9-15bb963ae73e)
+   
+  + ⚙️ Escolher qual o modo de espera afim de determinar qual ação acarretará o inicio da clonagem.
+    + 🔧 ![image](https://github.com/user-attachments/assets/c7d02921-2e27-4c3a-b11c-cf113e166ec3)
+   
+  + ⚙️ Após o carregamento do processo de clonagem, com os dispositivos em "100%", basta pressionar a tecla "Y" conforme solicitado pelo clonezilla e o processo de clonagem será encerrado.
+    + 🔧 ![image](https://github.com/user-attachments/assets/109ff998-5366-46ea-9b3d-1264274772dc)
+
+  > ⚠️ Após estes processos, se nenhum dispositivo der erro durante a clonagem, você terá finalizado todo tramite de clonagem com sucesso!
