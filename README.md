@@ -29,7 +29,7 @@ Este repositório possui 3 branches adicionais, cada uma contendo um tutorial vo
 - [`tutorial-criando-imagem`](https://github.com/V1niSouza/Checklist-Clonezilla/tree/tutorial-criando-imagem?tab=readme-ov-file)  
   📦 Como criar uma imagem do sistema que será replicado
 
-- [`tutorial-clonando-imagem-por-rede`](https://github.com/seu-user/seu-repo/tree/tutorial-clonando-imagem-por-rede)  
+- [`tutorial-clonando-imagem-por-rede`](https://github.com/V1niSouza/Checklist-Clonezilla/tree/tutorial-clonando-imagem-por-rede?tab=readme-ov-file)  
   🌐 Clonagem de imagem via rede (modo servidor PXE)
 
 - [`tutorial-clonando-imagem-apartir-de-um-hd-externo`](https://github.com/seu-user/seu-repo/tree/tutorial-clonando-imagem-apartir-de-um-hd-externo)  
