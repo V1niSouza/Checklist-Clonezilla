@@ -88,7 +88,7 @@ Pressione **Enter**.
 ## 9. Fonte da imagem
 
 Escolha:  
-> **local_dev** (dispositivo local USB)  
+> **local_dev**   
 Pressione **Enter**.
 
 ![Image](https://github.com/user-attachments/assets/eb5427d3-a63a-4348-860d-3915f79f9f42)
