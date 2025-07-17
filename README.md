@@ -26,7 +26,7 @@ Após o download, utilize um programa como Rufus, Ventoy ou BalenaEtcher para cr
 
 Este repositório possui 3 branches adicionais, cada uma contendo um tutorial voltado para um cenário específico de uso do Clonezilla:
 
-- [`tutorial-criando-imagem`](https://github.com/seu-user/seu-repo/tree/tutorial-criando-imagem)  
+- [`tutorial-criando-imagem`](https://github.com/V1niSouza/Checklist-Clonezilla/tree/tutorial-criando-imagem?tab=readme-ov-file)  
   📦 Como criar uma imagem do sistema que será replicado
 
 - [`tutorial-clonando-imagem-por-rede`](https://github.com/seu-user/seu-repo/tree/tutorial-clonando-imagem-por-rede)  
